@@ -62,3 +62,7 @@ Transforming data into actionable insights and exploring the potential of artifi
 ---
 
 *"Data tells stories. My job is to listen and share them."*
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Analyst;Business+Intelligence;Database+Engineering+Student;Learning+C%23+and+.NET;Power+BI+%7C+SQL+%7C+Python" />
+</p>
